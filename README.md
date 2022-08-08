@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ClassyUk
-- 👀 I’m interested in Coding using task manager and python
 - 🌱 I’m currently learning anything i can 
-- 📫 How to reach me: ClassyUk#9764
+- 📫 How to reach me: Joycawn#9764
  
 
 <!---
